@@ -685,3 +685,9 @@ covid19globalemployer.com
 covid19oraclecloud.com
 www.coronavirus.brussels
 masques-coronavirus.brussels
+bag-coronavirus.ch
+ufsp-coronavirus.ch
+ofsp-coronavirus.ch
+foph-coronavirus.ch
+corona-data.ch
+covid19-survey.org
