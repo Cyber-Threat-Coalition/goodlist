@@ -691,3 +691,11 @@ ofsp-coronavirus.ch
 foph-coronavirus.ch
 corona-data.ch
 covid19-survey.org
+coronavirus.jhu.edu
+covid-19-1-newhavenct.hub.arcgis.com
+covid19.nhp.gov.in
+sp-covid.prismic.io
+covid19musicrelief.byspotify.com
+covid19healthbot.cdc.gov
+covid19-phwstatement.nhs.wales
+covid.ourworldindata.org
