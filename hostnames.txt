@@ -699,3 +699,5 @@ covid19musicrelief.byspotify.com
 covid19healthbot.cdc.gov
 covid19-phwstatement.nhs.wales
 covid.ourworldindata.org
+unitedwayeocovid19.ca
+centraideeocovid19.ca
